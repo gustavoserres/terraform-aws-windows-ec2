@@ -1,0 +1,1 @@
+Template to create a Windows VM on aws ec2
